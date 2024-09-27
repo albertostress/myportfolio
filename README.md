@@ -1,7 +1,6 @@
 # 🌍 Welcome to my Portfolio!
 
 👋 Hello! Welcome to my multilingual portfolio where you can explore my work in your preferred language.
-👋Herzlich Willkommen! Willkommen in meinem mehrsprachigen Portfolio, in dem Sie meine Arbeit in der Sprache Ihrer Wahl entdecken können.
 
 Please choose your language to proceed:
 
