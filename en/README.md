@@ -1,6 +1,4 @@
-# António Hermelinda
-
-**System Administrator | IT Support Specialist | Cloud Solutions Architect**
+System Administrator | IT Support Specialist | Cloud Solutions Architect
 
 [LinkedIn](https://www.linkedin.com/in/ant%C3%B3nio-hermelinda-677464109/) | [YouTube](https://www.youtube.com/@antoniohermelindajr4451)
 
