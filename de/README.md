@@ -1,5 +1,4 @@
-
-   Systemadministrator | IT-Support-Spezialist | Cloud-Lösungsarchitekt
+ Systemadministrator | IT-Support-Spezialist | Cloud-Lösungsarchitekt
 
   [LinkedIn](https://www.linkedin.com/in/ant%C3%B3nio-hermelinda-677464109/) | [YouTube](https://www.youtube.com/@antoniohermelindajr4451)
 
