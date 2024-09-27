@@ -1,3 +1,2 @@
-
-[English Version](en/) | [German Version](de/)
+[English](en/) | [Deutsch](de/)
 
