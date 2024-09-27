@@ -1,6 +1,6 @@
 # António Hermelinda
 
-**System Administrator | IT Support Specialist | Cloud Solutions Architect**
+System Administrator | IT Support Specialist | Cloud Solutions Architect
 
 [LinkedIn](https://www.linkedin.com/in/ant%C3%B3nio-hermelinda-677464109/) | [YouTube](https://www.youtube.com/@antoniohermelindajr4451)
 
@@ -12,13 +12,11 @@ I am an experienced and dedicated **System Administrator** with a passion for de
 
 **Key Skills**:
 - System Administration (Linux, Windows)
-- IT Support & Troubleshooting
-- Cloud Infrastructure (AWS, Azure, GCP)
-- Virtualization (VMware, Hyper-V)
+- IT Support & Troubleshooting 
+- Cloud Infrastructure (AWS & Azure)
+- Virtualization (VMware, Hyper-V & Proxmox)
 - Network & Security Management
-- DevOps Automation (Ansible, Docker, Jenkins)
 - Backup & Disaster Recovery Solutions
-- Cybersecurity Best Practices (Firewalls, IDS/IPS)
 - Database Management (MySQL, PostgreSQL)
 - Monitoring & Alerting (Nagios, Prometheus, Grafana)
 
@@ -32,7 +30,7 @@ I am an experienced and dedicated **System Administrator** with a passion for de
 - Automated server deployments and configurations using Ansible, reducing deployment time by 40%.
 - Spearheaded a company-wide **migration to the cloud** (AWS), including the implementation of hybrid cloud solutions, load balancing, and auto-scaling for high-availability services.
 - Designed and implemented **disaster recovery strategies**, ensuring the company's data is backed up and secure with **minimal downtime** in case of failure.
-- Conducted internal cybersecurity audits, reducing vulnerabilities by over 30% through regular patching and threat detection systems (IDS/IPS).
+
 
 ### IT Support Specialist - Sodosa,sa  
 *August 2018 - April 2021*  
@@ -40,7 +38,7 @@ I am an experienced and dedicated **System Administrator** with a passion for de
 - Administered Active Directory, managing users, groups, permissions, and GPOs to ensure secure and organized workflows.
 - Implemented **SCCM** to streamline system updates and application deployments, improving patch management and software installation processes by 50%.
 - Managed network devices including routers, firewalls, and switches, ensuring secure and reliable network performance across multiple office locations.
-- Led training sessions to improve staff's technical literacy, decreasing ticket resolution time by 15%.
+
 
 ### Cloud Solutions Architect (Freelance)  
 *March 2020 - Present*  
@@ -72,9 +70,10 @@ Launched a company-wide **cybersecurity initiative**, including configuring fire
 
 - **AWS Certified Solutions Architect – Associate**
 - **Microsoft Certified: Azure Administrator Associate**
-- **Red Hat Certified System Administrator (RHCSA)**
+- **Linux Professional Institute LPIC-2**
 - **CompTIA Network+**
-- **Certified Information Systems Security Professional (CISSP)** (in progress)
+- **M365 Certified Administrator**
+- **Administering Windows Server Hybrid Core Infrastructure**
 
 ---
 
