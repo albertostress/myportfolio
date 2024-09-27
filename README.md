@@ -26,7 +26,7 @@ I am an experienced and dedicated **System Administrator** with a passion for de
 
 ## Experience
 
-### System Administrator - XYZ Corporation  
+### System Administrator - Kaeso, oil & gas  
 *May 2021 - Present*  
 - Managed over 50 Linux and Windows servers, ensuring 99.9% uptime through proactive monitoring and maintenance.
 - Automated server deployments and configurations using Ansible, reducing deployment time by 40%.
@@ -34,7 +34,7 @@ I am an experienced and dedicated **System Administrator** with a passion for de
 - Designed and implemented **disaster recovery strategies**, ensuring the company's data is backed up and secure with **minimal downtime** in case of failure.
 - Conducted internal cybersecurity audits, reducing vulnerabilities by over 30% through regular patching and threat detection systems (IDS/IPS).
 
-### IT Support Specialist - ABC Solutions  
+### IT Support Specialist - Sodosa,sa  
 *August 2018 - April 2021*  
 - Provided Tier 1 and Tier 2 support for over 200 end users, solving issues related to hardware, software, networking, and security.
 - Administered Active Directory, managing users, groups, permissions, and GPOs to ensure secure and organized workflows.
