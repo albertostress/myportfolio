@@ -4,9 +4,9 @@
 
 Please choose your language to proceed:
 
-- [🇬🇧 English Version](en/index.md)
-- [🇩🇪 Deutsche Version](de/index.md)
-- [🇵🇹 Versão Portuguesa](pt/index.md)
+- [🇬🇧 English Version](en/README.md)
+- [🇩🇪 Deutsche Version](de/README.md)
+- [🇵🇹 Versão Portuguesa](pt/README.md)
 
 ---
 
