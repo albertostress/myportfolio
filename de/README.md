@@ -1,13 +1,13 @@
  Systemadministrator | IT-Support-Spezialist | Cloud-Lösungsarchitekt
 
-  [LinkedIn](https://www.linkedin.com/in/ant%C3%B3nio-hermelinda-677464109/) | [YouTube](https://www.youtube.com/@antoniohermelindajr4451)
+ [LinkedIn](https://www.linkedin.com/in/ant%C3%B3nio-hermelinda-677464109/) | [YouTube](https://www.youtube.com/@antoniohermelindajr4451)
 
  
 ## Über mich
 
-  Ich bin ein erfahrener und engagierter **Systemadministrator**, der sich darauf spezialisiert hat, effiziente IT-Infrastrukturen zu entwerfen, Sicherheitsvorschriften einzuhalten und die Leistung zu optimieren. Mit Fachkenntnissen in **Cloud-Technologien**, **Netzwerkmanagement** und **Automatisierung** helfe ich Unternehmen, ihre Umgebungen zu skalieren und zu sichern und gleichzeitig den operativen Aufwand zu reduzieren.
+Ich bin ein erfahrener und engagierter **Systemadministrator**, der sich darauf spezialisiert hat, effiziente IT-Infrastrukturen zu entwerfen, Sicherheitsvorschriften einzuhalten und die Leistung zu optimieren. Mit Fachkenntnissen in **Cloud-Technologien**, **Netzwerkmanagement** und **Automatisierung** helfe ich Unternehmen, ihre Umgebungen zu skalieren und zu sichern und gleichzeitig den operativen Aufwand zu reduzieren.
 
-  **Schlüsselqualifikationen**:
+ **Schlüsselqualifikationen**:
   - Systemadministration (Linux, Windows)
   - IT-Support & Fehlerbehebung 
   - Cloud-Infrastruktur (AWS & Azure)
@@ -18,8 +18,8 @@
   - Überwachung & Warnmeldungen (Nagios, Prometheus, Grafana)
 
   ---
-
- ## Berufserfahrung
+  
+  ## Berufserfahrung
 
   ### Systemadministrator - Kaeso, Öl & Gas  
   *Mai 2021 - Heute*  
@@ -28,14 +28,14 @@
   - Leitung der unternehmensweiten **Migration in die Cloud** (AWS), einschließlich der Implementierung hybrider Cloud-Lösungen, Lastverteilung und automatischer Skalierung für hochverfügbare Dienste.
   - Entwicklung und Implementierung von **Notfallwiederherstellungsstrategien**, um sicherzustellen, dass die Daten des Unternehmens gesichert und im Falle eines Ausfalls mit **minimaler Ausfallzeit** wiederhergestellt werden können.
 
-  ### IT-Support-Spezialist - Sodosa,sa  
+### IT-Support-Spezialist - Sodosa,sa  
   *August 2018 - April 2021*  
   - Bereitstellung von Tier-1- und Tier-2-Support für über 200 Endbenutzer, Lösung von Problemen im Zusammenhang mit Hardware, Software, Netzwerken und Sicherheit.
   - Verwaltung von Active Directory, Benutzerverwaltung, Gruppen, Berechtigungen und GPOs, um sichere und organisierte Arbeitsabläufe zu gewährleisten.
   - Implementierung von **SCCM**, um Systemupdates und Anwendungsbereitstellungen zu optimieren, wodurch das Patch-Management und die Software-Installationsprozesse um 50% verbessert wurden.
   - Verwaltung von Netzwerkgeräten wie Routern, Firewalls und Switches, Sicherstellung einer sicheren und zuverlässigen Netzwerkleistung über mehrere Bürostandorte hinweg.
 
-  ### Cloud-Lösungsarchitekt (Freelance)  
+### Cloud-Lösungsarchitekt (Freelance)  
   *März 2020 - Heute*  
   - Entwicklung und Bereitstellung von Cloud-Infrastrukturlösungen für kleine und mittlere Unternehmen unter Verwendung von AWS und Azure.
   - Entwicklung von **CI/CD-Pipelines** mit Jenkins, Docker und Kubernetes für automatisierte Anwendungsbereitstellung und Skalierung.
@@ -45,7 +45,7 @@
 
   ---
 
-  ## Projekte
+## Projekte
 
   ### **Unternehmens-IT-Automatisierung**  
   Entwicklung und Implementierung eines **Ansible-Playbooks**, um sich wiederholende administrative Aufgaben wie Benutzerkontoerstellung, Softwareinstallationen und Konfigurationsänderungen zu automatisieren. Manuelle Arbeit um 60% reduziert und Systemkonsistenz verbessert.
