@@ -12,8 +12,7 @@ Please choose your language to proceed:
 
 ### About Me 🌟
 
-I am a **System Administrator** passionate about building efficient IT infrastructures. Choose your language above to dive into my projects, experience, and certifications.
-
+I am a **System Administrator** passionate about building efficient IT infrastructures. 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ant%C3%B3nio-hermelinda-677464109/) or watch my [YouTube](https://www.youtube.com/@antoniohermelindajr4451) channel for tutorials!
 
 ---
