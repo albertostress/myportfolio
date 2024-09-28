@@ -2,9 +2,8 @@
 
   [LinkedIn](https://www.linkedin.com/in/ant%C3%B3nio-hermelinda-677464109/) | [YouTube](https://www.youtube.com/@antoniohermelindajr4451)
 
-  ---
-
-  ## Über mich
+ 
+## Über mich
 
   Ich bin ein erfahrener und engagierter **Systemadministrator**, der sich darauf spezialisiert hat, effiziente IT-Infrastrukturen zu entwerfen, Sicherheitsvorschriften einzuhalten und die Leistung zu optimieren. Mit Fachkenntnissen in **Cloud-Technologien**, **Netzwerkmanagement** und **Automatisierung** helfe ich Unternehmen, ihre Umgebungen zu skalieren und zu sichern und gleichzeitig den operativen Aufwand zu reduzieren.
 
@@ -20,7 +19,7 @@
 
   ---
 
-  ## Berufserfahrung
+ ## Berufserfahrung
 
   ### Systemadministrator - Kaeso, Öl & Gas  
   *Mai 2021 - Heute*  
