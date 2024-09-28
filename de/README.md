@@ -47,21 +47,21 @@ Ich bin ein erfahrener und engagierter **Systemadministrator**, der sich darauf 
 
 ## Projekte
 
-  ### **Unternehmens-IT-Automatisierung**  
+### **Unternehmens-IT-Automatisierung**  
   Entwicklung und Implementierung eines **Ansible-Playbooks**, um sich wiederholende administrative Aufgaben wie Benutzerkontoerstellung, Softwareinstallationen und Konfigurationsänderungen zu automatisieren. Manuelle Arbeit um 60% reduziert und Systemkonsistenz verbessert.
 
-  ### **Cloud-Bereitstellung in mehreren Regionen**  
+### **Cloud-Bereitstellung in mehreren Regionen**  
   Leitung der Bereitstellung einer **Cloud-Architektur in mehreren Regionen** unter Verwendung von AWS, um eine hohe Verfügbarkeit und Notfallwiederherstellung für eine unternehmenskritische Anwendung zu gewährleisten. Dazu gehörten die Einrichtung von Route 53, Auto Scaling Groups, Elastic Load Balancing und die regionsübergreifende Replikation von Datenbanken.
 
-  ### **Full-Stack-Überwachungssystem**  
+### **Full-Stack-Überwachungssystem**  
   Implementierung einer Full-Stack-**Überwachungs- und Warnlösung** unter Verwendung von Prometheus und Grafana zur Überwachung wichtiger Leistungsmetriken (CPU, Speicher, Festplattennutzung) auf allen Servern. Das System half, Leistungsengpässe zu identifizieren und die Betriebszeit erheblich zu verbessern.
 
-  ### **Cybersicherheitsinitiative**  
+### **Cybersicherheitsinitiative**  
   Einführung einer unternehmensweiten **Cybersicherheitsinitiative**, einschließlich der Konfiguration von Firewalls (pfSense, UFW), der Bereitstellung von IDS/IPS-Systemen (Snort, Suricata) und der Durchführung von Penetrationstests, um Risiken zu identifizieren und zu mindern.
 
   ---
 
-  ## Zertifikate
+## Zertifikate
 
   - **AWS Certified Solutions Architect – Associate**
   - **Microsoft Certified: Azure Administrator Associate**
@@ -72,11 +72,11 @@ Ich bin ein erfahrener und engagierter **Systemadministrator**, der sich darauf 
 
   ---
 
-  ## Meine YouTube-Projekte
+## Meine YouTube-Projekte
   
   ---
 
-  ## Kontakt
+## Kontakt
 
   [LinkedIn](https://www.linkedin.com/in/ant%C3%B3nio-hermelinda-677464109/) | [YouTube](https://www.youtube.com/@antoniohermelindajr4451) | [Email](mailto:your-email@example.com)
 
