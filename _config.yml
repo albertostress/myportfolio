@@ -3,6 +3,7 @@ logo: /assets/img/headshot_circle_final.png
 #description: text below image
 #show_downloads: true
 theme: jekyll-theme-minimal
-languages:
-  - en
-  - de
+# Link to custom stylesheet
+assets:
+  css: 
+    - /assets/css/custom.css
