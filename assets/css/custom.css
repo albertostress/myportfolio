@@ -1,0 +1,33 @@
+body {
+  background-image: url('https://images.unsplash.com/photo-1521592644187-c5f5d60fefb7?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80');
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+/* To make sure content is readable */
+.content {
+  background-color: rgba(255, 255, 255, 0.8); /* Adds a semi-transparent white background to content */
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+header, footer {
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 15px;
+}
+
+h1, h2, h3 {
+  color: #333; /* Adjust text color for readability */
+}
+
+a {
+  color: #0066cc; /* Link color */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
