@@ -1,4 +1,4 @@
-System Administrator | IT Support Specialist | Cloud Solutions Architect
+System Administrator | IT Support  | Cloud Solutions Architect
 
 [LinkedIn](https://www.linkedin.com/in/ant%C3%B3nio-hermelinda-677464109/) | [YouTube](https://www.youtube.com/@antoniohermelindajr4451)
 
@@ -24,7 +24,7 @@ I am an experienced and dedicated **System Administrator** with a passion for de
 
 ## Experience
 
-### System Administrator - XYZ Corporation  
+### System Administrator - Kaeso, oil & gas  
 *May 2021 - Present*  
 - Managed over 50 Linux and Windows servers, ensuring 99.9% uptime through proactive monitoring and maintenance.
 - Automated server deployments and configurations using Ansible, reducing deployment time by 40%.
@@ -32,7 +32,7 @@ I am an experienced and dedicated **System Administrator** with a passion for de
 - Designed and implemented **disaster recovery strategies**, ensuring the company's data is backed up and secure with **minimal downtime** in case of failure.
 - Conducted internal cybersecurity audits, reducing vulnerabilities by over 30% through regular patching and threat detection systems (IDS/IPS).
 
-### IT Support Specialist - ABC Solutions  
+### IT Support Specialist - Sodosa,sa    
 *August 2018 - April 2021*  
 - Provided Tier 1 and Tier 2 support for over 200 end users, solving issues related to hardware, software, networking, and security.
 - Administered Active Directory, managing users, groups, permissions, and GPOs to ensure secure and organized workflows.
@@ -40,13 +40,6 @@ I am an experienced and dedicated **System Administrator** with a passion for de
 - Managed network devices including routers, firewalls, and switches, ensuring secure and reliable network performance across multiple office locations.
 - Led training sessions to improve staff's technical literacy, decreasing ticket resolution time by 15%.
 
-### Cloud Solutions Architect (Freelance)  
-*March 2020 - Present*  
-- Designed and deployed cloud infrastructure solutions for small and medium-sized businesses using AWS and Azure.
-- Developed **CI/CD pipelines** using Jenkins, Docker, and Kubernetes for automated application deployment and scaling.
-- Optimized cloud costs by 20% through rightsizing instances and implementing serverless architecture where applicable.
-- Secured cloud environments with IAM policies, VPCs, and firewalls, ensuring regulatory compliance and data protection.
-- Integrated **monitoring solutions** (CloudWatch, Prometheus) to keep cloud operations under continuous observation, improving response time to incidents.
 
 ---
 
@@ -61,8 +54,6 @@ Led the deployment of a **multi-region cloud architecture** using AWS, ensuring 
 ### **Full-Stack Monitoring System**  
 Implemented a full-stack **monitoring and alerting solution** using Prometheus and Grafana to track key performance metrics (CPU, memory, disk usage) across all servers. The system helped identify performance bottlenecks and significantly improved uptime.
 
-### **Cybersecurity Initiative**  
-Launched a company-wide **cybersecurity initiative**, including configuring firewalls (pfSense, UFW), deploying IDS/IPS systems (Snort, Suricata), and conducting penetration tests to identify and mitigate risks.
 
 ---
 
